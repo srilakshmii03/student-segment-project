@@ -1,0 +1,6 @@
+UserID,Age,Gender,total_courses,total_spent,cluster
+1,20,M,0.0,0.0,2
+2,22,F,2.0,1198.0,0
+3,24,M,1.0,499.0,0
+4,21,F,1.0,999.0,0
+5,23,M,1.0,399.0,1
